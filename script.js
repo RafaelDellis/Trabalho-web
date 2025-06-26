@@ -45,4 +45,5 @@ function loadLocalStorage() {
     }
 }
 
-loadLocalStorage();
+localStorage.clear();
+
